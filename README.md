@@ -1,4 +1,4 @@
-This is a cool colection of flash files which ill use in my site at https://sites.google.com/view/ali-and-zane-are-cool/home
+This is a cool collection of flash files which ill use in my site at https://sites.google.com/view/ali-and-zane-are-cool/home
 
 Ill use [this](https://github.com/HelloAmHuman/Flash-Games/blob/main/cool%20flash%20ruffle%20embed.html) to embed them.
 
